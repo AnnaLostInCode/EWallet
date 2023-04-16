@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EWallet</string>
+    <string name="add_card">Add card</string>
+    <string name="present_card">Present card</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="scan_card">Scan card</string>
+    <string name="card_holder">Card holder</string>
+    <string name="card_name">Card name</string>
+</resources>
